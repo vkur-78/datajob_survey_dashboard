@@ -3,6 +3,8 @@
 ## Overview  
 This Power BI dashboard provides insights from a **survey of data professionals** working in roles such as **Data Analysts, Data Engineers, Data Scientists, Database Developers, and Architects**. It analyzes salary trends, job satisfaction, skills, and demographics to help understand the work environment in the data industry.  
 
+![Screenshot 2025-03-06 152413](https://github.com/user-attachments/assets/48a8f36d-b38e-49a3-9f81-8c1d2d4d02db)
+
 ## Key Features  
 ✅ **Average Salary by Country** – Bar chart comparing salaries across regions (United States, Canada, UK, India, etc.).  
 ✅ **Average Salary by Job Title** – Horizontal bar chart displaying salary differences among Data Scientists, Engineers, Analysts, and more.  
